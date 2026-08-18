@@ -1,9 +1,0 @@
-work/
-clean-run/
-__pycache__/
-**/__pycache__/
-*.pyc
-.venv/
-*.egg-info/
-outputs/*
-!outputs/.gitkeep

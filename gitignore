@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+
+# Model weights (usually too large / should be fetched separately)
+models/*.bin
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.safetensors
+
+# Logs
+*.log
+
+# Distribution / build
+build/
+dist/
+*.egg

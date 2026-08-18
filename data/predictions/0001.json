@@ -1,0 +1,13 @@
+{
+  "id": "0001",
+  "reference": "data\\references\\ref_0001.png",
+  "search": "data\\searches\\search_0001.png",
+  "pred_x": 425.48567397799343,
+  "pred_y": 599.4234109446406,
+  "confidence": 0.6447421312332153,
+  "refined_score": 0.9554266333580017,
+  "margin": 0.07689279317855835,
+  "scale": 0.095,
+  "angle_deg": 0.5,
+  "runtime_ms": 442.09650000004785
+}
